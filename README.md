@@ -1,8 +1,7 @@
-
 <div align="center" style="position: relative;">
   <img src=https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg alt="Plano de Fundo de Ciência de Dados" width="100%" height="auto" style="opacity: 0.5; position: absolute; top: 0; left: 0; z-index: -1;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1840F7&width=435&lines=Hi%2C+I'm+Bruno!+;I'm+27+years+old+!%F0%9F%8E%82;I'm+a+Data+Science+Student!;I+live+in+Salvador%2C+Brazil!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1840F7&width=435&lines=Hi%2C+I'm+Bruno!+;I'm+27+years+old+!%F0%9F%8E%82;I'm+a+Data+Science+Student!;I+live+in+Salvador%2C+Brazil!)](https://git.io/typing-svg)
 
 <h2 align="center"> 👨‍💻 Who I am...</h2>
 
