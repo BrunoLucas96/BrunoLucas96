@@ -1,5 +1,14 @@
-# Bruno Lucas
-#### Estudante de Ciência e Análise de Dados | Data Science and Analytics Student
+
+<div align="center" style="position: relative;">
+  <img src=https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg alt="Plano de Fundo de Ciência de Dados" width="100%" height="auto" style="opacity: 0.5; position: absolute; top: 0; left: 0; z-index: -1;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1840F7&width=435&lines=Hi%2C+I'm+Bruno!+;I'm+27+years+old+!%F0%9F%8E%82;I'm+a+Data+Science+Student!;I+live+in+Salvador%2C+Brazil!)](https://git.io/typing-svg)
+
+<h2 align="center"> 👨‍💻 Who I am...</h2>
+
+<p align="center">
+ I am a dentist who decided to make a career transition into the tech industry and chose the field of data analysis and science!
+I am currently pursuing my second degree in Systems Analysis and Development and I am acquiring data science skills through courses and bootcamps.
 
 ## Conecte-se comigo | Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunolucas92/) 
